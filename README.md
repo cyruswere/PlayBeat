@@ -2,6 +2,14 @@
 
 An Android App that plays music using the MixCloud API.
 
+![Splash Screen](images/spalsh.png)
+
+![Welcome Screen](images/welcome.png)
+
+![Log In Screen](images/signup.png)
+
+![RegisterScreen](images/signup.png)
+
 
 ## Getting Started
 
