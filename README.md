@@ -3,20 +3,6 @@
 An Android App that plays music using the MixCloud API.
 
 
-
-![Splash Screen](./app/src/main/res/drawable/bigbeatsone.png)
-
-![Welcome Screen](./app/src/main/res/drawable/bigbeatstwo.png)
-
-![Log In Screen](./app/src/main/res/drawable/bigbeatsthree.png)
-
-![RegisterScreen](./app/src/main/res/drawable/bigbeatsfour.png)
-
-![Music Category Screen](./app/src/main/res/drawable/bigbeatsffive.png)
-
-
-
-
 ## Getting Started
 
 Run this command to clone the repo in your local machine. 
