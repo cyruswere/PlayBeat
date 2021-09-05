@@ -35,7 +35,7 @@ Ensure you have all the nesesary Java SDK and Android Studio SDK tools in place.
 
 ## Authors
 
-* **OderoOluoch** - *Initial work* - [Cyrus Were](https://github.com/cyruswere)
+* **CyrusWere** - *Initial work* - [Cyrus Were](https://github.com/cyruswere)
 
 
 
