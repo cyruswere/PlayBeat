@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
         topAnimation = AnimationUtils.loadAnimation(this,R.anim.top_animation);
         bottomAnimation = AnimationUtils.loadAnimation(this,R.anim.bottom_animation);
         middleAnimation = AnimationUtils.loadAnimation(this,R.anim.midlle_animation);
-
+xc
 //        Hooks
         first = findViewById(R.id.first_line);
         second = findViewById(R.id.second_line);
