@@ -1,8 +1,8 @@
-# BigBeats
+# PlayBeats
 
 An Android App that plays music using the MixCloud API.
 
-![Splash Screen](images/spalsh.png)
+![Splash Screen](images/splash.png)
 
 ![Welcome Screen](images/welcome.png)
 
