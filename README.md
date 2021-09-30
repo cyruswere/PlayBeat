@@ -2,7 +2,9 @@
 
 An Android App that plays music using the MixCloud API.
 
-![Splash Screen](images/splash.png | width=150)
+<img src="images/splash.png" width="250px" height="200px"/>
+
+[comment]: <> (![Splash Screen]&#40;images/splash.png&#41;)
 
 ![Welcome Screen](images/welcome.png)
 
